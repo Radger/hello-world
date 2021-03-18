@@ -1,2 +1,4 @@
 # hello-world
-I will become a great programmer
+Hi!
+
+I want to become a professional programmer. Lord God please help me :)
